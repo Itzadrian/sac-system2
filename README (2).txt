@@ -32,10 +32,10 @@ Project Folder: sac-system2
 ------------------
 - Start Apache and MySQL from XAMPP control panel.
 - Open your browser and go to: http://localhost/phpmyadmin
-- Click **New**, create a database named: `sac_system`
-- Click the `sac_system` DB you just created.
+- Click **New**, create a database named: `sac_system2`
+- Click the `sac_system2` DB you just created.
 - Go to the **Import** tab.
-- Choose the `sac_system.sql` file and click **Go**.
+- Choose the `sac_system2.sql` file and click **Go**.
 
 4. ACCESS THE PROJECT
 ---------------------
