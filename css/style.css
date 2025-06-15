@@ -63,6 +63,7 @@ a:hover {
 
 /* Header and Navigation */
 header {
+  /* background: antiquewhite; */
   background: #003366;
   color: white;
   padding: 15px 20px;
@@ -79,6 +80,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  /* background-color: antiquewhite; */
   background-color: #00264d;
 }
 
@@ -91,7 +93,9 @@ header {
 }
 
 .topnav a:hover {
+  /* background-color: aquamarine; */
   background-color: #0059b3;
+  /* background-color: whitesmoke; */
 }
 
 .topnav .icon {

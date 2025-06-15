@@ -23,3 +23,17 @@ toggleBtn?.addEventListener('click', () => {
     localStorage.setItem('theme', 'dark');
   }
 });
+
+
+// function updateIdLabel() {
+//   const userType = document.getElementById("user_type").value;
+//   const label = document.getElementById("idLabel");
+
+//   if (userType === "student") {
+//     label.textContent = "Matric Number";
+//   } else if (userType === "staff") {
+//     label.textContent = "Staff ID";
+//   } else {
+//     label.textContent = "Matric Number / Staff ID";
+//   }
+// }
